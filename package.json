@@ -1,0 +1,15 @@
+{
+  "name": "day3package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "dependencies": {
+    "backbone": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myo",
+  "license": "ISC"
+}
